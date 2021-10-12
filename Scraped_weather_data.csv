@@ -1,0 +1,4 @@
+Date,City,Temperature_in_F,Max_UV_Index,Wind_direction,Windspeed,Gustspeed,Precipitation_prob,Thunderstorm_prob,Precipitation
+October 12,chennai,36,5,W,9,28,40,24,1.0
+October 12,chennai,36,5,W,9,28,40,24,1.0
+October 13,chennai,34,7,NNE,7,24,40,24,1.0
