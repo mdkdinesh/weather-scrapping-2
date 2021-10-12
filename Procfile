@@ -1,1 +1,1 @@
-web: gunicorn -b :$PORT Weather_scrapping.wsgi --timeout 5000
+web: gunicorn -b :$PORT Weather_scrapping.wsgi --timeout 50000
